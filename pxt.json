@@ -1,0 +1,24 @@
+{
+    "name": "utraschall_1",
+    "description": "",
+    "dependencies": {
+        "core": "*",
+        "radio": "*",
+        "microphone": "*",
+        "pxt-DHT11_DHT22": "github:alankrantas/pxt-dht11_dht22#v0.0.3",
+        "maqueen": "github:dfrobot/pxt-maqueen#v1.5.4"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md",
+        "main.py"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "supportedTargets": [
+        "microbit"
+    ],
+    "preferredEditor": "blocksprj"
+}
